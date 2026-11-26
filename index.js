@@ -6,8 +6,8 @@ const { Client, GatewayIntentBits, EmbedBuilder, PermissionsBitField } = require
 const TOKEN = process.env.TOKEN;
 const PREFIX = "-";
 const TZ = "Asia/Riyadh";
-const DEFAULT_GUILD = "1564995425331847341";
-const DEFAULT_CHANNEL = "1564997590532096030";
+const DEFAULT_GUILD = "1575286097121120277";
+const DEFAULT_CHANNEL = "1575286097121120277";
 const DATA = path.join(__dirname, "streaks.json");
 const SETTINGS = path.join(__dirname, "settings.json");
 
